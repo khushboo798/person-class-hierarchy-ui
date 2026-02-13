@@ -1,0 +1,59 @@
+/* Page background */
+body {
+  background-color: #f1f5f9;
+  margin: 0;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Main container */
+.container {
+  max-width: 750px;
+  margin: 40px auto;
+  padding: 20px;
+}
+
+/* Heading */
+h1 {
+  text-align: center;
+  font-size: 42px;
+  font-weight: bold;
+  color: #111827;
+  margin-bottom: 30px;
+}
+
+/* Card design */
+.card {
+  background-color: #ffffff;
+  padding: 22px;
+  border-radius: 10px;
+  margin-bottom: 20px;
+  border: 1px solid #e5e7eb;
+}
+
+/* Name */
+.card h2 {
+  margin: 0;
+  font-size: 26px;
+  font-weight: bold;
+  color: #111827;
+}
+
+/* Age text */
+.card p {
+  margin: 8px 0;
+  font-size: 18px;
+  color: #111827;
+}
+
+/* Intro italic text */
+.intro {
+  font-style: italic;
+  color: #4b5563;
+}
+
+/* Extra info like Major and Teaching */
+.extra {
+  font-size: 18px;
+  color: #111827;
+  margin-top: 10px;
+}
